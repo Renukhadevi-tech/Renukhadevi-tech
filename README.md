@@ -1,18 +1,35 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=RENUKHADEVI%20S&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MCA%20Student%20%7C%20AI%20%26%20Data%20Analytics%20Enthusiast%20%7C%20Python%20%26%20IoT&descAlignY=58&descSize=18"/>
+
+<h1>RENUKHADEVI S</h1>
+
+<p>
+MCA Student | AI & Data Analytics Enthusiast | Python & IoT
+</p>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+Amazing+Projects;Learning+New+Technologies;Exploring+Artificial+Intelligence;Turning+Ideas+Into+Real+Projects" alt="Typing SVG" />
+
 <br/><br/>
+
 <img src="https://img.shields.io/badge/EDUCATION-MCA-6D28D9?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/FOCUS-AI%20%26%20Data%20Analytics-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/BASED%20IN-Chennai%2C%20India-4C1D95?style=for-the-badge"/>
+
 <br/><br/>
-<a href="https://www.linkedin.com/in/renukhadevi/"> <img
-src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-<a href="mailto:renukhadevi94@gmail.com"> <img
-src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-<a href="https://github.com/Renukhadevi-tech"> <img
-src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/> </a>
+
+<a href="https://www.linkedin.com/in/renukhadevi/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:renukhadevi94@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Renukhadevi-tech">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </div>
+
 ---
 ## ■ About Me
 
@@ -125,8 +142,8 @@ goal:
 src="https://img.shields.io/badge/Always-Building-A855F7?style=for-the-badge"/> <img
 src="https://img.shields.io/badge/Always-Growing-6D28D9?style=for-the-badge"/>
 </div>
----
-## ■ Connect With Me
+
+<h2>■ Connect With Me</h2>
 <div align="center">
 <a href="https://www.linkedin.com/in/renukhadevi/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -138,7 +155,7 @@ src="https://img.shields.io/badge/Always-Growing-6D28D9?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </div>
----
+
 <div align="center">
 
 <h3>■ Keep Building. Keep Learning. Keep Growing.</h3>
